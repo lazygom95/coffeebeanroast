@@ -100,3 +100,28 @@ footer {
     top: 177px;
     z-index: 0;
 }
+#loadimage{
+    width:15%;
+}
+
+#uli{
+    width:61%;
+}
+
+#aligncentre{
+    width:24%;
+    align:center;
+}
+
+#cbrc{
+    width:80%;
+}
+
+#newcomment{
+    width:20%;
+    align:left;
+}
+
+#Comments{
+    align:center;
+}
